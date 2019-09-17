@@ -1,3 +1,4 @@
 git is a really intersting thing.
 This is origin Line and i wont edit this
 I add a row Here
+Creating a new branch is quick AND simple.
